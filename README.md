@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요! 👋
+
+🐥 21살 개발자 김혜진입니다! 
+
 
 <!--
 **hyejin-1010/hyejin-1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-
