@@ -1,7 +1,6 @@
-### 안녕하세요! 👋
+## Hyejin Kim 👋
 
-22살 개발자 김혜진입니다! 
-
+![hyejin-1010](https://github-readme-stats.vercel.app/api?username=hyejin-1010&show_icons=true&theme=radical)
 
 <!--
 **hyejin-1010/hyejin-1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
