@@ -16,7 +16,7 @@
 ### 하는 일
 
 - **웹 · 앱 프론트엔드**: Vue 3 · Nuxt 3 (SSR) · Next.js (App Router) · React 19 · React Native
-- **제품 전체**: 사내 ERP를 기획 · 설계 · 프론트 · API · DB · 배포 · 운영까지 혼자 구축해 한 달 만에 출시
+- **제품 전체**: 사내 ERP를 기획 · 설계 · 프론트 · API · DB · 배포 · 운영까지 단독으로 구축해 한 달 만에 출시
 - **개발 생산성**: AI 에이전트 자동화 11종을 운영하며 이슈 처리 1~2시간 → 5분
 - **백엔드 · 인프라**: NestJS · Prisma · MySQL · Docker · AWS
 
